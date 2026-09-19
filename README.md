@@ -19,14 +19,16 @@ Como Compilar e Executar
    ```bash
    git clone [https://github.com/TEU_UTILIZADOR/sistema-biblioteca-unisced.git](https://github.com/TEU_UTILIZADOR/sistema-biblioteca-unisced.git)
    cd sistema-biblioteca-unisced
-
-
+```
+```
    Compilar todos os ficheiros Java:
+   ```bash
    javac src/*.java
-
+```
    Executar a aplicação:
+   ```bash
    java -cp src Principal
-
+```
 
  # Autor
 Estudante: Igor Gervasio
