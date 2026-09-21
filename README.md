@@ -17,8 +17,7 @@ Como Compilar e Executar
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/inhamenderere-dotcom/sistema-biblioteca-unisced.git
-cd sistema-biblioteca-unisced
+   git clone https://github.com/inhamenderere-dotcom/sistema-biblioteca-unisced.git cd sistema-biblioteca-unisced
 ```
 ```
    Compilar todos os ficheiros Java:
